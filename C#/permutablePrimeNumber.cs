@@ -28,7 +28,7 @@
                 myNum = myArr;
             }
             Console.Write(result);
-            Console.ReadLine();
+            Console.ReadKey();
 ==============================================================================     
         public static int[] shiftLeft(int[] arr)
         {
